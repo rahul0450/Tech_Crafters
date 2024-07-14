@@ -11,7 +11,7 @@
 % Title Page
 \title{Customized AI Kitchen For India}
 \author{Rahul Krishnan,Abia Abraham,Belwin Vaniyapurayil Binoj,           
-\\ Savio Saju,Ashique Muhammed\\ \textbf{Mentor} : Mrs.Starlet Ben Alex}
+\\ Savio Saju,Ashique Muhammed\\ \textbf{Mentor} : Dr.Starlet Ben Alex}
 \institute{Saintgits Group of Institutions}
 \date{\today}
 
